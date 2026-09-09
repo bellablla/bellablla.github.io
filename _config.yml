@@ -79,6 +79,7 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: electronic textiles
+
 ###########################
 # --- General options --- #
 ###########################
@@ -153,11 +154,7 @@ footer-hover-col: "#0085A1"
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
-.zeyada-regular {
-  font-family: "Zeyada", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
+
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
