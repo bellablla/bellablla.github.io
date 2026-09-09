@@ -78,8 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: electronic textiles
 ###########################
 # --- General options --- #
 ###########################
@@ -94,7 +93,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://bellablla.github.io/aboutme/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -129,10 +128,10 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#006400"
-text-col: "#ffffff"
-link-col: "#ffffff"
-hover-col: "#ffffff"
-navbar-col: "#ffffff"
+text-col: "#bba77a"
+link-col: "#c15003"
+hover-col: "#cd8602"
+navbar-col: "#bba77a"
 navbar-text-col: "#f2f7f2"
 navbar-border-col: "#f2f7f2"
 footer-col: "#EAEAEA"
