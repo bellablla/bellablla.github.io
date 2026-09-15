@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/mango1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -93,11 +93,11 @@ rss-description: isabella is taking in electronic textiles
 
 # Select which social network share links to show in posts
 share-links-active:
- # twitter: true
-#  facebook: true
-#  linkedin: true
-#  vk: false
-#  reddit: false
+  twitter: false
+  facebook: false
+  linkedin: false
+ vk: false
+ reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -135,12 +135,12 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+page-col: "#b79818"
+text-col: "#bc4700"
+link-col: "#d78901"
+hover-col: "#d78901"
+navbar-col: "#d78901"
+navbar-text-col: "#bc4700"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
