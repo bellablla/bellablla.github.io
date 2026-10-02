@@ -1,4 +1,3 @@
-<img width="1345" height="669" alt="Screenshot 2026-10-01 at 9 55 33 PM" src="https://github.com/user-attachments/assets/90450a35-ac3b-4013-a0e7-728e7437779c" />
 ---
 layout: post
 title: blinky if
