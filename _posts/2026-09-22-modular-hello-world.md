@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modular Hello World
+title: modular hello world
 subtitle: basic structure of Arduino, variables, and basic arithmetic
 cover-img: 
 thumbnail-img: 
